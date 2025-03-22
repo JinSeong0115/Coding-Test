@@ -11,4 +11,4 @@ I aim to document my problem-solving process, share my approaches, and improve m
 - **Structure:** Each problem is organized by level and problem name, with a brief explanation and solution code.
 
 ## 🖥️ Programmers
-![Programmers](https://github.com/JinSeong0115/Coding-Test/blob/main/programmers.jpg)
+![Programmers](https://raw.githubusercontent.com/JinSeong0115/Coding-Test/main/programmers.jpg)
