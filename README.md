@@ -7,4 +7,4 @@ I aim to document my problem-solving process, share my approaches, and improve m
 ## 📖 About This Repository
 - **Purpose:** To store and organize my solutions to Programmers coding test problems.
 - **Language:** Python.
-- **Structure:** Each problem is organized by category and problem name, with a brief explanation and solution code.
+- **Structure:** Each problem is organized by level and problem name, with a brief explanation and solution code.
