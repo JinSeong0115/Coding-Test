@@ -10,4 +10,4 @@ I aim to document my problem-solving process, share my approaches, and improve m
 - **Language:** Python.
 - **Structure:** Each problem is organized by level and problem name, with a brief explanation and solution code.
 
-![Programmers](https://github.com/JinSeong0115/Coding-Test/blob/main/programmers.jpg)
+!(https://github.com/JinSeong0115/Coding-Test/blob/main/programmers.jpg)
